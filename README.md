@@ -1,4 +1,4 @@
-### 👋 أهلاً بك، أنا أصيل الصبري
+### 👋 أهلاً بكم، أنا أصيل الصبري
 
 <img align="right" src="https://raw.githubusercontent.com/AboSahab1234/AboSahab1234/main/اصيل عبدالجليل الصبري.jpg" width="150" style="border-radius: 15px; margin-left: 20px; border: 2px solid #e2e8f0;" />
 
