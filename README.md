@@ -25,7 +25,7 @@
 
 ### 📫 تواصل معي (Contact Me)
 * **واتساب:** [967781756747+](https://wa.me/967781756747)
-* **الموقع الشخصي:** [aseel-website-sandy.vercel.app](https://aseel-website-sandy.vercel.app)
+* **الموقع الشخصي:** [aseel-portfolio-eight.vercel.app](https://aseel-portfolio-eight.vercel.app)
 * **البريد الإلكتروني:** (يمكنك إضافة بريدك هنا لزيادة الأرشفة)
 
 ---
