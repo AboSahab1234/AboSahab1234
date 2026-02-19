@@ -2,7 +2,7 @@
 ## Web Engineer & Full-Stack Developer 🚀
 
 <div align="center">
-  <img align="right" src="https://raw.githubusercontent.com/AboSahab1234/AboSahab1234/main/اصيل عبدالجليل احمد حزام الصبري.jpg" width="160" style="border-radius: 20px; border: 3px solid #007ACC;" title="أصيل عبدالجليل أحمد حزام الصبري" />
+  <img align="right" src="profile.jpg" width="160" style="border-radius: 20px; border: 3px solid #007ACC;" title="أصيل عبدالجليل أحمد حزام الصبري" />
 </div>
 
 أنا **أصيل عبدالجليل الصبري**، مهندس برمجيات وإداري شغوف من اليمن 🇾🇪. متخصص في بناء الحلول الرقمية المتكاملة، وتحويل الأفكار المعقدة إلى تطبيقات ويب سريعة، تفاعلية، وعالية الأداء.
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 إحصائيات GitHub (تتحدث تلقائياً)
+### 📊 إحصائيات النشاط (GitHub Stats)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AboSahab1234&show_icons=true&theme=tokyonight&hide_border=true" alt="Aseel's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboSahab1234&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
@@ -38,7 +38,7 @@
 ### 📫 تواصل معي (Contact Me)
 * **واتساب:** [967781756747+](https://wa.me/967781756747)
 * **الموقع الشخصي:** [aseel-portfolio-eight.vercel.app](https://aseel-portfolio-eight.vercel.app)
-* **البريد الإلكتروني:** [aseelalsabri@example.com](mailto:aseelalsabri@example.com) *(قم بتعديله لبريدك الحقيقي)*
+* **البريد الإلكتروني:** [aseelalsabri@example.com](mailto:aseelalsabri@example.com)
 
 ---
 
