@@ -2,7 +2,7 @@
 ## Software Engineer & Manager | Full-Stack Solutions 🚀
 
 <div align="center">
-  <img align="right" src="profile.jpg" width="160" style="border-radius: 20px; border: 3px solid #007ACC;" title="أصيل عبدالجليل أحمد حزام الصبري" />
+  <img align="right" src="Aseel-Al-Sabri.jpg" width="160" style="border-radius: 20px; border: 3px solid #007ACC;" alt="أصيل عبدالجليل أحمد الصبري - Aseel Al-Sabri" title="أصيل عبدالجليل الصبري" />
 </div>
 
 أنا **أصيل عبدالجليل الصبري**، مهندس برمجيات وإداري 🇾🇪. أعمل على تطوير حلول الويب المتكاملة بمنهجية هندسية دقيقة وإدارة تقنية منظمة، لتحويل الأفكار إلى واقع رقمي متميز وعالي الأداء.
@@ -28,8 +28,8 @@
 
 ### 📊 إحصائيات النشاط (GitHub Stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AboSahab1234&show_icons=true&theme=tokyonight&hide_border=true" alt="Aseel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboSahab1234&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AboSahab1234&show_icons=true&theme=tokyonight&hide_border=true" alt="Aseel Al-Sabri GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboSahab1234&layout=compact&theme=tokyonight&hide_border=true" alt="Aseel Al-Sabri Most Used Languages" />
 </div>
 
 ---
